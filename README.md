@@ -33,8 +33,8 @@ Generate actionable, creative content ideas in seconds for blogs, social media, 
 
 1. Clone the repository:
     
-    git clone https://github.com/yourusername/content-idea-generator.git
-    cd content-idea-generator
+    - git clone https://github.com/yourusername/content-idea-generator.git
+    - cd content-idea-generator
 
 2. Make the setup script executable and run it:
 
